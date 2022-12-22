@@ -1,6 +1,6 @@
 # crac_app
 
-A new Flutter project.
+This is Flutter project with Bloc states Management
 
 ## Getting Started
 
